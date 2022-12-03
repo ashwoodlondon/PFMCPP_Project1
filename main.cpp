@@ -52,84 +52,93 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        cat
+//  action 1:    the cat meows
+cat.meow();
+//  action 2:    the cat destroys sofa
+cat.destroySofa();
+//  action 3:    the cat demands food
+cat.demandFood();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        battery
+//  action 1:    the battery provides potential difference
+battery.providePotentialDifference();
+//  action 2:    the battery goes flat
+battery.goFlat();
+//  action 3:    the battery leaks
+battery.leak();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        flower
+//  action 1:    the flower grows
+flower.grow();
+//  action 2:    the flower blossoms
+flower.blossom();
+//  action 3:    the flower produces nectar
+flower.produceNectar();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        engine
+//  action 1:    the engine starts
+engine.start();
+//  action 2:    the engine consumes fuel
+engine.consumeFuel();
+//  action 3:    the engine stops
+engine.stop();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        balloon
+//  action 1:    the balloon floats
+balloon.float();
+//  action 2:    the balloon bounces
+balloon.bounce();
+//  action 3:    the balloon pops
+balloon.pop();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        shark
+//  action 1:    the shark swims
+shark.swim();
+//  action 2:    the shark eats fish
+shark.eatFish();
+//  action 3:    the shark menaces Amity Island
+shark.menaceAmityIsland();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        chicken
+//  action 1:    the chicken eats grain
+chicken.eatGrain();
+//  action 2:    the chicken lays an egg
+chicken.layEgg();
+//  action 3:    the chicken clucks
+chicken.cluck();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        fan
+//  action 1:    the fan moves air
+fan.moveAir();
+//  action 2:    the fan oscillates
+fan.oscillates();
+//  action 3:    the fan squeaks
+fan.squeak();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        alien
+//  action 1:    the alien travels in space
+alien.travelInSpace();
+//  action 2:    the alien lands on Earth
+alien.landOnEarth();
+//  action 3:    the alien phones home
+alien.phoneHome();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        builder
+//  action 1:    the builder provides an estimate
+builder.provideEstimate();
+//  action 2:    the builder constructs a house
+builder.constructHouse();
+//  action 3:    the builder provides an invoice
+builder.provideInvoice();
 
 
 
