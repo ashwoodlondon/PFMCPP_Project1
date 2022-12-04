@@ -123,13 +123,13 @@ fan.oscillates();
 fan.squeak();
 
 //  9)
-//  Noun:        alien
-//  action 1:    the alien travels in space
-alien.travelInSpace();
-//  action 2:    the alien lands on Earth
-alien.landOnEarth();
-//  action 3:    the alien phones home
-alien.phoneHome();
+//  Noun:       washing machine 
+//  action 1:   the washing machine begins the fast wash cycle 
+washingMachine.beginFastWashCycle();
+//  action 2:   the washine machine signals the end of the wash cycle 
+washingMachine.signalEndOfWashCycle();
+//  action 3:   the washing machine releases the door lock
+washingMachine.releaseDoorLock();
 
 //  10)
 //  Noun:        builder
